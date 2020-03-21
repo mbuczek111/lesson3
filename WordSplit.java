@@ -5,3 +5,4 @@ public class WordSplit {
             System.out.println(args[0].charAt(i));
     }
 }
+//just some comment for my git exercise
